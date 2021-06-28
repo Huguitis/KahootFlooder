@@ -496,6 +496,5 @@ function join(name, idee) {
 }
 
 console.clear();
-console.log('Finalizado.');
+console.log("Enviando bots...")
 spam(); 
- Joining
