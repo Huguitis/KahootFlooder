@@ -1,6 +1,6 @@
 # KahootFlooder
 New Kahoot game spammer/flooder script with bots. Enjoy it!
-Support: https://discord.gg/qP6mXU22YQ
+Support: https://discord.link/huguitis
 
 # Setup
 1. Open install.bat file
